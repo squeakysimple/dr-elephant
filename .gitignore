@@ -36,7 +36,7 @@ bin
 /.idea_modules
 
 # SBT
-dist
+# dist
 project/project
 project/boot
 project/target
